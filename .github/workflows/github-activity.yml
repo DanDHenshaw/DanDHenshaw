@@ -8,13 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
 
     steps:
       - uses: actions/checkout@v2
       - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Updated activity'
-          MAX_LINES: 5
