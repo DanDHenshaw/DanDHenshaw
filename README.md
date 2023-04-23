@@ -58,7 +58,7 @@ Interested in everything programming and working on projects with positive peopl
    <h3>⚡ Recent GitHub Activity</h3>
 
    <!--START_SECTION:activity-->
-   1. 🎉 Merged PR [#3](https://github.com/DanDHenshaw/fds/pull/3) in [DanDHenshaw/fds](https://github.com/DanDHenshaw/fds)
+1. 🎉 Merged PR [#3](https://github.com/DanDHenshaw/fds/pull/3) in [DanDHenshaw/fds](https://github.com/DanDHenshaw/fds)
    <!--END_SECTION:activity-->
 
 </details>
