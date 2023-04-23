@@ -7,8 +7,11 @@ Well-organised, problem solver, great teamwork & communication skills, fan of ma
 Interested in everything programming and working on projects with positive people!
 
   <p align="left">
+    <a href="https://danielhenshaw.dev/">
+       <img alt="website" title="View my Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-00868b?style=for-the-badge&logo=dan-dev&logoColor=white"/>
+    </a>
     <a href="https://www.linkedin.com/in/daniel-henshaw-230925187/">
-       <img alt="linkedin" title="View my Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+       <img alt="linkedin" title="View my Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=25px"/>
     </a>
     <a href="https://www.linkedin.com/in/daniel-henshaw-230925187/">
        <img alt="instagram" title="View my Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
