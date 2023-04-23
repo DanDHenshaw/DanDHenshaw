@@ -54,6 +54,8 @@ Interested in everything programming and working on projects with positive peopl
   
   <h3>⚡ Recent GitHub Activity</h3>
   
-  <!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+  
+<!--RECENT_ACTIVITY:last_update-->
   
 </details>
