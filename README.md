@@ -31,7 +31,7 @@
 
 <!-- Begin Second Section --->
 ---
-<h2>⚙️ Languages and Tools</h2>
+### ⚙️ Languages and Tools
 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
   <img align="left" alt="cplusplus" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
