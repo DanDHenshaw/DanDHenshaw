@@ -71,6 +71,7 @@
   <img align="left" alt="jetbrains" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
 </a>
 <br>
+<br>
 <!-- End Second Section --->
 
 #
