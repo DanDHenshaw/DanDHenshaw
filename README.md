@@ -117,6 +117,9 @@
 
    <!--START_SECTION:activity-->
    <!--END_SECTION:activity-->
+   
+   <!--RECENT_ACTIVITY:last_update-->
+   <!--RECENT_ACTIVITY:end-->
 
 </details>
 <!-- End Fourth Section --->
