@@ -1,7 +1,7 @@
 <!-- Begin First Section --->
 # 💻 Daniel D Henshaw
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Game+Developer+/+Programmer&font=Fira&color=61dafb&pause=1000&size=22">
+<img src="https://readme-typing-svg.demolab.com/?lines=Game+Developer+/+Programmer&font=Fira&color=00868b&pause=1000&size=22">
 
 <p align="left">
   I'm a Game Developer located in England. I have a passion for programming and making things a reality.
@@ -102,16 +102,16 @@
    <summary><h2>📊 GitHub Stats and Activity</h2></summary>
 
    <h3>🔥 Streak Stats</h3>
-   <img alt="Dan's streak" src="https://streak-stats.demolab.com?user=DanDHenshaw&background=20232A&ring=61DAFB&fire=61DAFB&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&border=FFFFFF)](https://git.io/streak-stats">
+   <img alt="Dan's streak" src="https://streak-stats.demolab.com?user=DanDHenshaw&background=20232A&ring=00868b&fire=00868b&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&border=FFFFFF)](https://git.io/streak-stats">
 
    <h3>💻 GitHub Profile Stats</h3>
-   <img alt="Dan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanDHenshaw&show_icons=true&theme=react" height="192px">
-   <img alt="Dan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanDHenshaw&layout=compact&langs_count=8&theme=react" height="192px">
+   <img alt="Dan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanDHenshaw&show_icons=true&bg_color=20232A&text_color=ffffff&title_color=00868b&icon_color=00868b" height="192px">
+   <img alt="Dan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanDHenshaw&layout=compact&langs_count=8&bg_color=20232A&text_color=ffffff&title_color=00868b&icon_color=00868b" height="192px">
    <br/>
 
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-   <img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DanDHenshaw&theme=react">
+   <img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DanDHenshaw&bg_color=20232A&color=FFFFFF&line=00868b&point=00868b">
 
    <h3>⚡ Recent GitHub Activity</h3>
    
