@@ -56,13 +56,13 @@
   <img align="left" alt="css" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="unity" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="left" alt="unity" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/DanDHenshaw/DanDHenshaw/main/assets/unity.svg">
 </a>
 <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
-  <img align="left" alt="unrealengine" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+  <img align="left" alt="unrealengine" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/DanDHenshaw/DanDHenshaw/main/assets/unreal.svg">
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/DanDHenshaw/DanDHenshaw/main/assets/github.svg">
 </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="visual studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
