@@ -1,9 +1,8 @@
-name: Update README
+name: Update Activity
 
 on:
   schedule:
-    # Runs every first and 12 hrs.
-    - cron: '0 */12 * * *'
+    - cron: '0 */12 * * *' # Runs every first and 12 hrs.
   workflow_dispatch:
 
 jobs:
