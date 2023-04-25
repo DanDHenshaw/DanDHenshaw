@@ -79,6 +79,15 @@
 
 ### 📺 Latest YouTube Videos
 
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+
+<a href="http://youtube.com/@danieldhenshaw" target="_blank" rel="noreferrer">
+  <img align="left" alt="youtube" src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white">
+</a>
+<br>
+
 <!-- End Third Section --->
 
 #
