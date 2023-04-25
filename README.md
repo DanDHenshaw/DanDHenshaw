@@ -116,14 +116,14 @@
    <h3>⚡ Recent GitHub Activity</h3>
    
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 25th, 2023, 4:29:49 PM (GMT)
+Last Updated: Tuesday, April 25th, 2023, 7:57:00 PM (GMT)
    <!--RECENT_ACTIVITY:last_update_end-->
    <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [DanDHenshaw/ForrestKnight](https://github.com/DanDHenshaw/ForrestKnight) from [ForrestKnight/ForrestKnight](https://github.com/ForrestKnight/ForrestKnight)<br>
-2. 🔱 Forked [DanDHenshaw/jamesgeorge007](https://github.com/DanDHenshaw/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)<br>
-3. 🔱 Forked [DanDHenshaw/DenverCoder1](https://github.com/DanDHenshaw/DenverCoder1) from [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)<br>
-4. 🔱 Forked [DanDHenshaw/ForrestKnight](https://github.com/DanDHenshaw/ForrestKnight) from [ForrestKnight/ForrestKnight](https://github.com/ForrestKnight/ForrestKnight)<br>
-5. ⬆️ Pushed 1 commit(s) to [SHU-Group-10/Project](https://github.com/SHU-Group-10/Project)<br>
+1. ⭐ Starred [DanDHenshaw/uno-NO-U](https://github.com/DanDHenshaw/uno-NO-U)<br>
+2. ⭐ Starred [DanDHenshaw/Profiler](https://github.com/DanDHenshaw/Profiler)<br>
+3. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)<br>
+4. ⭐ Starred [amirzpr/design-patterns-for-humans](https://github.com/amirzpr/design-patterns-for-humans)<br>
+5. ⭐ Starred [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)<br>
    <!--RECENT_ACTIVITY:end-->
 
 </details>
