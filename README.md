@@ -70,6 +70,9 @@
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="jetbrains" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
 </a>
+<a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="adobe" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/DanDHenshaw/DanDHenshaw/main/assets/adobecc.svg">
+</a>
 <br>
 <br>
 <!-- End Second Section --->
