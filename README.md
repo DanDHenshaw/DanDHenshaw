@@ -114,14 +114,6 @@
    <img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DanDHenshaw&theme=react">
 
    <h3>⚡ Recent GitHub Activity</h3>
-
-   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DanDHenshaw/fds/pull/3) in [DanDHenshaw/fds](https://github.com/DanDHenshaw/fds)
-2. 💪 Opened PR [#3](https://github.com/DanDHenshaw/fds/pull/3) in [DanDHenshaw/fds](https://github.com/DanDHenshaw/fds)
-3. 🎉 Merged PR [#2](https://github.com/DanDHenshaw/fds/pull/2) in [DanDHenshaw/fds](https://github.com/DanDHenshaw/fds)
-4. 💪 Opened PR [#2](https://github.com/DanDHenshaw/fds/pull/2) in [DanDHenshaw/fds](https://github.com/DanDHenshaw/fds)
-5. 🎉 Merged PR [#1](https://github.com/DanDHenshaw/fds/pull/1) in [DanDHenshaw/fds](https://github.com/DanDHenshaw/fds)
-   <!--END_SECTION:activity-->
    
    <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, April 25th, 2023, 3:14:49 PM (GMT)
