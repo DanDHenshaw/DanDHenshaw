@@ -19,6 +19,12 @@
     <a href="https://www.instagram.com/dandhenshaw/" target="_blank" rel="noreferrer">
       <img alt="instagram" title="View my Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
+    <a href="http://youtube.com/@danieldhenshaw?sub_confirmation=1">
+       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC59Jub8XoOFxM-DnwJQf21w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630 "/>
+    </a> 
+    <a href="http://youtube.com/@danieldhenshaw">
+       <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC59Jub8XoOFxM-DnwJQf21w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+    </a> 
     <a href="https://github.com/DanDHenshaw?tab=followers" target="_blank" rel="noreferrer">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DanDHenshaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white">
     </a>
@@ -29,8 +35,9 @@
 </p>
 <!-- End First Section --->
 
-<!-- Begin Second Section --->
 ---
+
+<!-- Begin Second Section --->
 ### ⚙️ Languages and Tools
 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
@@ -64,13 +71,19 @@
   <img align="left" alt="jetbrains" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
 </a>
 <br>
-<br>
 <!-- End Second Section --->
-
-<!-- Begin Third Section --->
 
 #
 
+<!-- Begin Third Section --->
+
+### 📺 Latest YouTube Videos
+
+<!-- End Third Section --->
+
+#
+
+<!-- Begin Fourth Section --->
 <details>
    <summary><h2>📊 GitHub Stats and Activity</h2></summary>
 
@@ -97,4 +110,4 @@
    <!--END_SECTION:activity-->
 
 </details>
-<!-- End Third Section --->
+<!-- End Fourth Section --->
