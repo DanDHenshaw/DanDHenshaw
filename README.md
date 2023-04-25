@@ -116,7 +116,6 @@
    <h3>⚡ Recent GitHub Activity</h3>
 
    <!--START_SECTION:activity-->
-
    <!--END_SECTION:activity-->
 
 </details>
