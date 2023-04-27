@@ -81,6 +81,21 @@
 
 <!-- Begin Third Section --->
 
+### 📂 Favourite Projects
+
+<a href="https://github.com/DanDHenshaw/Profiler" target="_blank" rel="noreferrer">
+  <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=DanDHenshaw&repo=Profiler&bg_color=20232A&text_color=ffffff&title_color=00868b&icon_color=00868b" />
+</a>
+<a href="https://github.com/DanDHenshaw/uno-NO-U" target="_blank" rel="noreferrer">
+  <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=DanDHenshaw&repo=uno-NO-U&bg_color=20232A&text_color=ffffff&title_color=00868b&icon_color=00868b" />
+</a>
+
+<!-- End Third Section --->
+
+#
+
+<!-- Begin Fourth Section --->
+
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -92,17 +107,18 @@
   <img align="left" alt="youtube" src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white">
 </a>
 <br>
+<br>
 
-<!-- End Third Section --->
+<!-- End Fourth Section --->
 
 #
 
-<!-- Begin Fourth Section --->
+<!-- Begin Fifth Section --->
 <details>
    <summary><h2>📊 GitHub Stats and Activity</h2></summary>
 
    <h3>🔥 Streak Stats</h3>
-   <img alt="Dan's streak" src="https://streak-stats.demolab.com?user=DanDHenshaw&background=20232A&ring=00868b&fire=00868b&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&border=FFFFFF)](https://git.io/streak-stats">
+   <img alt="Dan's streak" src="https://streak-stats.demolab.com?user=DanDHenshaw&background=20232A&ring=00868b&fire=00868b&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&border=FFFFFF">
 
    <h3>💻 GitHub Profile Stats</h3>
    <img alt="Dan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanDHenshaw&show_icons=true&bg_color=20232A&text_color=ffffff&title_color=00868b&icon_color=00868b" height="192px">
@@ -127,4 +143,4 @@ Last Updated: Thursday, April 27th, 2023, 1:10:56 PM (GMT)
    <!--RECENT_ACTIVITY:end-->
 
 </details>
-<!-- End Fourth Section --->
+<!-- End Fifth Section --->
