@@ -99,8 +99,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Nightmare of Moonlight - Group 10 Unity Project - Sheffield Hallam University](https://ytcards.demolab.com/?id=TXSqp55xz3s&title=Nightmare+of+Moonlight+-+Group+10+Unity+Project+-+Sheffield+Hallam+University&lang=en&timestamp=1682430159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=457 "Nightmare of Moonlight - Group 10 Unity Project - Sheffield Hallam University")](https://www.youtube.com/watch?v=TXSqp55xz3s)
-[![Monster Truck Flip](https://ytcards.demolab.com/?id=hr_78vXV5S8&title=Monster+Truck+Flip&lang=en&timestamp=1616512427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=13 "Monster Truck Flip")](https://www.youtube.com/watch?v=hr_78vXV5S8)
+[![Nightmare of Moonlight - Group 10 Unity Project - Sheffield Hallam University](https://ytcards.demolab.com/?id=TXSqp55xz3s&title=Nightmare+of+Moonlight+-+Group+10+Unity+Project+-+Sheffield+Hallam+University&lang=en&timestamp=1682430159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457 "Nightmare of Moonlight - Group 10 Unity Project - Sheffield Hallam University")](https://www.youtube.com/watch?v=TXSqp55xz3s)
+[![Monster Truck Flip](https://ytcards.demolab.com/?id=hr_78vXV5S8&title=Monster+Truck+Flip&lang=en&timestamp=1616512427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13 "Monster Truck Flip")](https://www.youtube.com/watch?v=hr_78vXV5S8)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="http://youtube.com/@danieldhenshaw" target="_blank" rel="noreferrer">
