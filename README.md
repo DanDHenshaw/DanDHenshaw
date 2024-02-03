@@ -132,14 +132,14 @@
    <h3>⚡ Recent GitHub Activity</h3>
    
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 2nd, 2024, 1:11:05 PM (GMT)
+Last Updated: Saturday, February 3rd, 2024, 1:30:50 AM (GMT)
    <!--RECENT_ACTIVITY:last_update_end-->
    <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-2. ⬆️ Pushed 2 commit(s) to [DanDHenshaw/xr-challenge](https://github.com/DanDHenshaw/xr-challenge)<br>
-3. 🎉 Merged PR [#2](https://github.com/DanDHenshaw/xr-challenge/pull/2) in [DanDHenshaw/xr-challenge](https://github.com/DanDHenshaw/xr-challenge)<br>
-4. 💪 Opened PR [#2](https://github.com/DanDHenshaw/xr-challenge/pull/2) in [DanDHenshaw/xr-challenge](https://github.com/DanDHenshaw/xr-challenge)<br>
-5. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/xr-challenge](https://github.com/DanDHenshaw/xr-challenge)<br>
+2. ⬆️ Pushed 5 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+3. 🎉 Merged PR [#13](https://github.com/DanDHenshaw/Group-6/pull/13) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+4. ⬆️ Pushed 3 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+5. ❌ Closed PR [#12](https://github.com/DanDHenshaw/Group-6/pull/12) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
    <!--RECENT_ACTIVITY:end-->
 
 </details>
