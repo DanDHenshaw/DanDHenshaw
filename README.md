@@ -132,14 +132,14 @@
    <h3>⚡ Recent GitHub Activity</h3>
    
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 17th, 2024, 1:09:51 PM (GMT)
+Last Updated: Sunday, February 18th, 2024, 1:33:16 AM (GMT)
    <!--RECENT_ACTIVITY:last_update_end-->
    <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#17](https://github.com/DanDHenshaw/Group-6/pull/17) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-2. 💪 Opened PR [#16](https://github.com/DanDHenshaw/Group-6/pull/16) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-3. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-4. ⬆️ Pushed 2 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
-5. 🎉 Merged PR [#15](https://github.com/DanDHenshaw/Group-6/pull/15) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+1. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+2. ❌ Closed PR [#20](https://github.com/DanDHenshaw/Group-6/pull/20) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+3. 💪 Opened PR [#20](https://github.com/DanDHenshaw/Group-6/pull/20) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+4. 💪 Opened PR [#19](https://github.com/DanDHenshaw/Group-6/pull/19) in [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
+5. ⬆️ Pushed 1 commit(s) to [DanDHenshaw/Group-6](https://github.com/DanDHenshaw/Group-6)<br>
    <!--RECENT_ACTIVITY:end-->
 
 </details>
