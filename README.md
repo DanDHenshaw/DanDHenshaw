@@ -132,12 +132,9 @@
    <h3>⚡ Recent GitHub Activity</h3>
    
    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 31st, 2024, 1:38:17 AM (GMT)
+Last Updated: Saturday, August 31st, 2024, 1:13:09 PM (GMT)
    <!--RECENT_ACTIVITY:last_update_end-->
    <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 179 commit(s) to [insignia-interactive/glfw](https://github.com/insignia-interactive/glfw)<br>
-2. ⬆️ Pushed 42 commit(s) to [insignia-interactive/imgui](https://github.com/insignia-interactive/imgui)<br>
-3. ⬆️ Pushed 1 commit(s) to [insignia-interactive/imgui](https://github.com/insignia-interactive/imgui)<br>
    <!--RECENT_ACTIVITY:end-->
 
 </details>
