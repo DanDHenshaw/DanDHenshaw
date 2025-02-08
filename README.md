@@ -127,8 +127,6 @@
 
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-   <img alt="Dan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DanDHenshaw&bg_color=20232A&color=FFFFFF&line=00868b&point=00868b">
-
    <h3>⚡ Recent GitHub Activity</h3>
    
    <!--RECENT_ACTIVITY:last_update-->
